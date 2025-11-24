@@ -26,6 +26,7 @@ This repository showcases hands-on work across multiple networking and system ad
 - Cisco Packet Tracer
 - Wireshark
 - Physical cabling (**UTP**, **RJ45** crimping)
+- Configuration of physical routers and their interfaces
 
 ### Cloud Computing
 - Amazon Web Services (AWS)
@@ -34,13 +35,16 @@ This repository showcases hands-on work across multiple networking and system ad
 
 ### Services & Applications
 - **DNS** with BIND
-- **NTP**, **HTTP**, **FTP**
+- **NTP**, **FTP**
 - **SAMBA** for file sharing
+- **SNMP**
+- **HTTP** with Apache + PHP, Nginx and IIS
 
 ### Databases
 - PostgreSQL
 - SQL Server
 - Azure SQL
+- MySQL
 
 ### Automation
 - Shell scripts for system and service configuration
@@ -83,3 +87,4 @@ This is an academic project. All resources are demonstrated for educational purp
 ---
 
 If you have any questions or would like more details about a specific lab, feel free to explore each folder in the repository. 
+
